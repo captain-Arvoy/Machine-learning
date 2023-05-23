@@ -14,3 +14,6 @@ To effectively learn machine learning while understanding the underlying mathema
 6. Continuously learn and practice: Machine learning is a rapidly evolving field. Stay updated with the latest research papers, articles, and tutorials. Participate in online courses, workshops, or bootcamps that focus on practical machine learning applications. Engage in Kaggle competitions or other machine learning challenges to further refine your skills.
 
 Remember, learning machine learning is an iterative process. It's essential to strike a balance between understanding the underlying mathematics, implementing algorithms from scratch, and utilizing libraries and frameworks. This combination will provide you with a comprehensive understanding of machine learning principles, practical experience in applying them, and the ability to leverage tools to solve complex problems effectively.
+
+### purpose
+-> It will solve climibing stair problems and all DP problems hence giving me valueable insights
